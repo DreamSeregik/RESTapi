@@ -3,12 +3,13 @@
     {
       "id": 1,
       "title": "hello"
-    },
+    }
     
     {
-      "id": 2,
-      "title: "Post 2"
+      "id": 1,
+      "title": "post 2"
     }
+    
   ],
   "profile": {
     "name": "typicode"
